@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: center;
+  margin-top: 84px;
+}
+.buttonborrar {
+	align-items: left;
+}
+.buttonenviar {
+	align-items: right;
+}
